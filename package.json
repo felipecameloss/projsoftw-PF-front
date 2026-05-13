@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.16.2",
+    "jwt-decode": "^4.0.0"
+  }
+}
